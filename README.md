@@ -6,7 +6,6 @@ Bem vindo!!! Me chamo Henrique Pereira👾
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henriquetx06&showicons=true&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henriquetx06&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquetx06&hide_progress=true&theme=transparent)
 
