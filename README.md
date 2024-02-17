@@ -14,7 +14,7 @@ Bem vindo!!! Me chamo Henrique Pereira👾
   <img align="center" alt="Henri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Henri-gif" src="https://cdn.discordapp.com/attachments/1187495339519914125/1208262794252648509/ezgif.com-resize_3.gif?ex=65e2a56a&is=65d0306a&hm=4024bbfe7ddb697592861a73621e959a0c69c9aac7c95a98c665568c5ad5785a&"
+   <img align="right" alt="Henri-gif" src="https://cdn.discordapp.com/attachments/1187495339519914125/1208270989230739516/ezgif.com-resize_4.gif?ex=65e2ad0c&is=65d0380c&hm=74fe48bd64d5d679156290ef00eced2ecfbcbc652603a88f256b7aa2f3c3ee93&"
 </div>
 
   ##
