@@ -1,7 +1,6 @@
 ## Bem vindo!!! Me chamo Henrique Pereira👾
 
 - 🤓 Estudando Front-End
-- 🤖 Cursando Eng.Software
 - 🦾 Procurando evoluir ao máximo!
 
 ##
